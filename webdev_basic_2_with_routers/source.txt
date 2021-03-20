@@ -1,0 +1,3 @@
+https://perennialsky.medium.com/understand-handle-handler-and-handlefunc-in-go-e2c3c9ecef03
+
+https://www.alexedwards.net/blog/a-recap-of-request-handling
